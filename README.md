@@ -1,2 +1,2 @@
 # RepositorioHenry
-Este es un repositorio del PrepCourse de Henry en 2024
+Este proyecto es una prueba de como clonar y modificar un repositorio con Gitbash en GitHub
